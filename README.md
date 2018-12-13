@@ -3,5 +3,5 @@ This repository features code from a TDD and pair programming session as part of
 
 ## To run ##
 ```
-fizzbuzz.rb
+ruby fizzbuzz.rb
 ```
